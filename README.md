@@ -8,3 +8,4 @@ Steps Covered:
 4. Marge Queries. Marge with Two table
 5. UnPivot Column 
 6. Developing an Interactive BI Dashboard / Report.
+![Amazon Dashboard](https://github.com/yashwantswami/Power-BI-Dashboard/assets/87890866/2e009f68-bc32-4e7f-9df0-10aa62b9bf53)
